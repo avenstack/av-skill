@@ -1,0 +1,4 @@
+interface:
+  display_name: "Joplin Plugin Writer"
+  short_description: "Build and maintain Joplin desktop plugins."
+  default_prompt: "Use $joplin-plugin-writer to create a Joplin plugin from a feature idea and prepare it for packaging."
