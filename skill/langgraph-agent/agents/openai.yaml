@@ -1,0 +1,4 @@
+interface:
+  display_name: "LangGraph Agent Developer"
+  short_description: "Build stateful LLM agents with LangGraph."
+  default_prompt: "Use $langgraph-agent to create a LangGraph agent implementing a multi-step workflow with state management."
